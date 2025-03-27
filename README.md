@@ -28,7 +28,6 @@ The **Coexistion Protocol** is inspired by decentralized technologies such as bl
 ### 2.1 Decentralization Without Complexity
 Unlike other decentralized solutions that rely on complex mechanisms, the Coexistion Protocol uses simple yet effective systems to distribute power, including:
 - A simple network protocol designed for high efficiency and minimal complexity while maintaining robustness and resilience.
-- A peer-to-peer reputation system.
 - Merit-based work allocation that matches opportunities to capabilities.
 - A transparent value-tracking system that doesn’t rely on speculative digital assets, ensuring long-term stability.
 
@@ -53,10 +52,10 @@ Inspired by blockchain’s consensus mechanisms, the Coexistion Protocol builds 
 ### 2.4 Integrated Education and Skill Development
 Education and skill-building are embedded directly into the work process, meaning individuals learn by doing:
 - Workers acquire valuable experience without waiting for lengthy, costly degrees.
-- Knowledge development is in direct alignment with evolving job market needs.
+- Knowledge development is in direct alignment with evolving job market needs and research output.
 - Workers continuously refine their skills as they contribute to the system.
 
-This feature draws on the success of peer-to-peer knowledge sharing that decentralized systems have nurtured. By integrating learning into the flow of work, we can scale personal development more effectively and ensure that individuals are continuously gaining real-world skills aligned with market demands. This helps reduce the barriers to entry traditionally imposed by higher education.
+By integrating learning into the flow of work, we can scale personal development more effectively and ensure that individuals are continuously gaining real-world skills aligned with market demands and knowledge necessary for growth. This helps reduce the barriers to entry traditionally imposed by higher education.
 
 ## 3. Economic Model and Value Distribution
 
@@ -73,35 +72,16 @@ All assets, intellectual property, and initiatives within the system are collabo
 - Ownership is distributed based on actual input, not predetermined salary structures.
 - The system ensures access to innovations and assets for all participants, preventing monopolies or exploitation.
 
-Inspired by the principles of open-source software and decentralized innovation, the Coexistion Protocol creates a collaborative ownership model that ensures shared access to economic value. This model fosters a collective sense of ownership and responsibility, aligning incentives and promoting collaboration over competition.
+The Coexistion Protocol creates a collaborative ownership model that ensures shared access to economic value. This model fosters a collective sense of ownership and responsibility, aligning incentives and promoting collaboration over competition.
 
-## 4. Implementation Considerations
+## 4. Open Implementation and Support  
 
-### 4.1 Trust and Verification Without Surveillance
-The Coexistion Protocol ensures accountability without relying on invasive surveillance or control:
-- A peer-reviewed reputation system enables trust between participants.
-- Work verification is achieved without compromising privacy.
-- Transparent and open task management processes foster security and reliability.
+The **Coexistion Protocol** is open for anyone to implement, adapt, or enhance. An implementation guide is included in the appendix. While the white paper outlines a robust framework, implementers are encouraged to refine aspects like collaborative work on physical projects and the handling of direct payments to the system.
 
-While blockchain has demonstrated the power of decentralized trust verification, we recognize that privacy concerns and transaction costs can undermine the system’s usability. The Coexistion Protocol takes inspiration from privacy-focused decentralized systems like Zcash and Monero, incorporating privacy-conscious approaches while ensuring the trustworthiness of participants.
-
-### 4.2 Scalability and Adaptability
-- The Coexistion Protocol is lightweight, adaptable, and capable of integration with existing systems, ensuring seamless implementation in diverse economic contexts.
-- The decentralized nature of the system allows it to scale organically, maintaining resilience as it grows.
-- Long-term viability is ensured through self-regulation, avoiding external dependencies.
-
-We take cues from decentralized networks such as Ethereum and Filecoin, which have proven that distributed systems can scale effectively with proper governance mechanisms. The Coexistion Protocol aims to create an architecture that balances scalability with low overhead, ensuring it can serve as a sustainable long-term solution.
+You can also contribute here to help in developing our implementation. Thanks to everyone who supports good decentralized innovation!  
 
 ## 5. Conclusion
 The Coexistion Protocol represents a paradigm shift in economic systems. By decentralizing power, ensuring equitable value distribution, and promoting transparency, it paves the way for a more just and efficient global economy. Unlike previous attempts that faltered due to inefficiency or centralization, Coexistion offers a framework that is both sustainable and grounded in the principles of fairness and opportunity for all. This is not merely a concept; it is a blueprint for a future where work, life, and progress are accessible to everyone, regardless of background or circumstance.
-
-The Coexistion Protocol builds upon the foundational achievements of decentralized technologies, leveraging blockchain’s transparent record-keeping, DAOs’ democratic governance models, and decentralized finance’s economic potentials. Our aim is to extend these lessons and solve broader societal challenges by creating an economic system that fosters fairness, inclusivity, and long-term sustainability.
-
-## 6. Open Implementation and Support  
-
-The **Coexistion Protocol** is open for anyone to implement, adapt, or enhance. While the white paper outlines a robust framework, implementers are encouraged to refine aspects like collaborative work on physical projects. An implementation guide is included in the appendix. 
-
-Feel free to contribute here to help in developing our own implementation, but everyone is free to build theirs. Thanks to everyone who supports good decentralized innovation!  
 
 ## **APPENDIX: Implementation Guide**
 
@@ -110,8 +90,6 @@ The Coexistion Protocol is a decentralized system designed to manage worker role
 - **Active Host**: Manages system operations, processes transactions, and stores temporary user actions for verification.
 - **Standby Host**: Passive, activated only to assist in selecting recipient organizations for token payments.
 - **Joining Host**: In the process of getting voted into the system by the workers in the dedicated role.
-
----
 
 ### **Key Functionalities**
 
@@ -169,7 +147,7 @@ The Coexistion Protocol is a decentralized system designed to manage worker role
     - Workers who have verified their identities can take up anonymization roles to obfuscate client information before passing on work requests to other workers in the system.
 
 14. **Economic Policy & Pay Adjustment**:
-    - **Valuer Roles** decide on economic parameters, including token exchange rates, salary distributions and amount reserved for entrepreneurial efforts. Innovation is only a role in this system.
+    - **Valuer Roles** decide on economic parameters, including token exchange rates, salary distributions and amount reserved for growth efforts. Roles exist for research and innovation in this system.
 
 15. **Peer Review & Performance Monitoring**:
     - Worker performance is continuously monitored by multiple randomly selected peers, ensuring accountability.
