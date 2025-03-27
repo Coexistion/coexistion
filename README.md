@@ -156,6 +156,9 @@ The Coexistion Protocol is a decentralized system designed to manage worker role
    - Dedicated workers monitor standby hosts continuously to ensure they remain available and act honestly. 
    - Standby hosts may not randomly select the same organisation more than a given number of times over a specific time window as this may suggest foul play.
 
-17. **Code Hosting and Update Process**:
+17. **Code, Hosting and Update Process**:
+   - The same system runs on the active, standby and new nodes.
+   - The code is split into backend API and frontend components.
+   - External applications can also interact with the backend API. All member interactions with the system must be signed.
    - The codebase is hosted on the system's infrastructure, ensuring stability, security, and transparent modification.
    - Updates follow a collaborative, consensus-driven process to maintain system integrity.
