@@ -78,7 +78,7 @@ The Coexistion Protocol creates a collaborative ownership model that ensures sha
 
 The **Coexistion Protocol** is open for anyone to implement, adapt, or enhance. An implementation guide is included in the appendix. While the white paper outlines a robust framework, implementers are encouraged to refine aspects like collaborative work on physical projects and the handling of direct payments to the system.
 
-You can also contribute here to help in developing our implementation. Thanks to everyone who supports good decentralized innovation!  
+You can also contribute here to help in developing our implementation. Contribute to discussions about the protocol to help us improve even further or get involved with code development. Join us and play your part in building the world of our dreams!  
 
 ## 5. Conclusion
 The Coexistion Protocol represents a paradigm shift in economic systems. By decentralizing power, ensuring equitable value distribution, and promoting transparency, it paves the way for a more just and efficient global economy. Unlike previous attempts that faltered due to inefficiency or centralization, Coexistion offers a framework that is both sustainable and grounded in the principles of fairness and opportunity for all. This is not merely a concept; it is a blueprint for a future where work, life, and progress are accessible to everyone, regardless of background or circumstance.
